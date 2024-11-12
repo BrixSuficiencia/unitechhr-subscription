@@ -1,0 +1,21 @@
+{
+  "name": "unitechhr-subscription",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "ejs": "^3.1.10",
+    "express": "^4.21.1",
+    "stripe": "^17.3.1"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.7"
+  }
+}
